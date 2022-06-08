@@ -7,6 +7,5 @@ This  website is deployed on google firebase.
 
 https://dice-game72.firebaseapp.com/
 
-![Screenshot (313)](https://user-images.githubusercontent.com/106341416/170877670-4f54c77b-477f-4950-ad0b-7d4a7c28e3ac.png)
-![Screenshot (311)](https://user-images.githubusercontent.com/106341416/170877671-c0a7f5bb-5435-4fab-af02-ad903f7714f0.png)
-![Screenshot (312)](https://user-images.githubusercontent.com/106341416/170877672-7140378e-fabf-40ef-b5e4-ec2482f62496.png)
+![Screenshot (387)](https://user-images.githubusercontent.com/106341416/172658165-69e3fc75-113a-4f2d-b2dc-805b6838182d.png)
+![Screenshot (386)](https://user-images.githubusercontent.com/106341416/172658171-9bd178ae-4fc2-4af2-8f0d-1753968851bb.png)
